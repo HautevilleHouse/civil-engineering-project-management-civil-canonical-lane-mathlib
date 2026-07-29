@@ -1,0 +1,9 @@
+import CivilEngineeringProjectManagementCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CivilEngineeringProjectManagementCanonicalLaneLean
+
+-- Root module placeholder
+
+end CivilEngineeringProjectManagementCanonicalLaneLean
+end HautevilleHouse
